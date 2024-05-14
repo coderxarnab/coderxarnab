@@ -2,8 +2,7 @@
 
 ###
 
-<div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderxarnab&label=Profile%20views&color=0e75b6&style=flat" alt="coderxarnab" /> </p>
+<div align="center">>
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=coderxarnab&show_icons=true&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="stats graph"  />
