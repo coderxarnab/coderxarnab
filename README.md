@@ -11,8 +11,6 @@
   <img src="https://streak-stats.demolab.com?user=coderxarnab&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
 
-<p>&nbsp;<img align="center" src="" alt="coderxarnab" /></p>
-
 </div>
 
 ###
