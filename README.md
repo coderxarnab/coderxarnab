@@ -3,8 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderxarnab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderxarnab&label=Profile%20views&color=0e75b6&style=flat" alt="coderxarnab" /> </p>
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=coderxarnab&show_icons=true&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="stats graph"  />
+  
   <img src="https://streak-stats.demolab.com?user=coderxarnab&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+
+<p>&nbsp;<img align="center" src="" alt="coderxarnab" /></p>
+
 </div>
 
 ###
